@@ -1,0 +1,20 @@
+/* Course pages styles */
+/* element selectors 
+    the more specific selector takes precedent*/
+h1 {
+    color: blue;
+    background-color: yellow;
+}
+
+em {
+    color: red;
+    background-color: green;
+}
+
+em.highlight {
+    background-color: antiquewhite;
+}
+
+.highlight {
+    background-color: aquamarine;
+}
